@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <linearGradient id="a" x1="25.952%" x2="63.399%" y1="-10.159%" y2="100%">
+            <stop offset="0%" stop-color="#01B9F5"/>
+            <stop offset="100%" stop-color="#368CF5"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="nonzero">
+        <circle cx="24" cy="24" r="24" fill="url(#a)"/>
+        <text fill="#FFF" font-family="PingFangSC-Semibold, PingFang SC" font-size="26" font-weight="500" transform="translate(10 10)">
+            <tspan x="5" y="26">₹</tspan>
+        </text>
+    </g>
+</svg>
